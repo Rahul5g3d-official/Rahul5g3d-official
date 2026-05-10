@@ -6,11 +6,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Powered+Products;MERN+Stack+Developer;Passionate+about+System+Design+%26+Real+World+Projects;NIT+Kurukshetra+Robotics+and+Automation+Student" />
 </p>
+
+---
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rahul5g3d-official&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge"/>
+
+</div>
 ---
 
 # About Me
-
-
 ```yaml
 name: Rahul Gupta
 located_in: India 🇮🇳
@@ -33,15 +38,8 @@ fields_of_interest:
 
 currently_learning: ["Distributed Systems", " React Native", "DevOps"]
 ```
-
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rahul5g3d-official&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge"/>
-
-</div>
----
 
 # GitHub Streak Stats
 
@@ -68,16 +66,21 @@ currently_learning: ["Distributed Systems", " React Native", "DevOps"]
 
 ---
 
-# 🚀 Final Message
+<!-- ======================= FOOTER ======================= -->
 
 <div align="center">
 
-### ⚡ “Code. Build. Scale. Repeat.” ⚡
+<h2>⚡ Code. Build. Scale. Repeat. ⚡</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,50:111827,100:020617"/>
+<br>
 
-</div>"Rahul Gupta">
-</p>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,50:111827,100:020617"
+/>
 
----
+<br>
+
+<h3>Rahul Gupta</h3>
+
+</div>
 
