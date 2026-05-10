@@ -4,7 +4,7 @@
 <h3 align="center">⚙️ Robotics & Automation Undergraduate | ....</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Powered+Products;MERN+Stack+Developer;Passionate+about+System+Design+%26+Real+World+Projects;NIT+Kurukshetra+Robotics+and+Automation+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=33&duration=2400&pause=800&color=111827&center=true&vCenter=true&width=1100&lines=SYSTEMS+%7C+AI+%7C+ROBOTICS;SCALABLE+TECHNOLOGY+ENGINEER;NIT+KURUKSHETRA+%7C+ROBOTICS+%26+AUTOMATION" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=Rahul5g3d-official&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge"/>
 
 </div>
----
 
 # About Me
 ```yaml
@@ -71,16 +70,6 @@ currently_learning: ["Distributed Systems", " React Native", "DevOps"]
 <div align="center">
 
 <h2>⚡ Code. Build. Scale. Repeat. ⚡</h2>
-
-<br>
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,50:111827,100:020617"
-/>
-
-<br>
-
-<h3>Rahul Gupta</h3>
 
 </div>
 
