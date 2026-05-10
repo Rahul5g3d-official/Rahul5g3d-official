@@ -56,28 +56,9 @@ currently_learning: ["Distributed Systems", " React Native", "DevOps"]
 
 
 ---
-# ⚡ Neural Activity
 
-<div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahul5g3d-official&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahul5g3d-official&theme=github_dark&utcOffset=5.5"/>
-
-</div>
----
-# 🌌 Language Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul5g3d-official&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahul5g3d-official&theme=github_dark"/>
-
-</div>
-----
-
-# 🚀 Developer Activity Graph
+# Developer Activity Graph
 
 <div align="center">
 
