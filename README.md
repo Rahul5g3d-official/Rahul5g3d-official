@@ -48,14 +48,6 @@ currently_learning: ["Distributed Systems", " React Native", "DevOps"]
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul5g3d-official&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
@@ -64,6 +56,37 @@ currently_learning: ["Distributed Systems", " React Native", "DevOps"]
 
 
 ---
+# ⚡ Neural Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahul5g3d-official&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahul5g3d-official&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+---
+# 🌌 Language Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul5g3d-official&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahul5g3d-official&theme=github_dark"/>
+
+</div>
+----
+
+# 🚀 Developer Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul5g3d-official&theme=tokyonight"/>
+
+</div>
+
+---
+
 
 <!-- ======================= FOOTER ======================= -->
 
